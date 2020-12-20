@@ -1,7 +1,7 @@
 # Robot Open Autonomous Racing (ROAR) 
 
 ### Please visit our project report website here!
-https://asdegoyeneche.github.io/ROAR/ 
+https://sihao.dev/ROAR/ 
 
 Most website videos are available in the `gh-pages` branch for reference (they can also be downloaded directly from the website using right-click).
 
